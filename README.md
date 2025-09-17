@@ -49,8 +49,8 @@ src/main/java/view/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/r-siddiq/prescription-webapp-jdbc.git
-cd prescription-webapp-jdbc
+git clone https://github.com/r-siddiq/Prescription-Webapp-JDBC.git
+cd Prescription-Webapp-JDBC
 ```
 
 ### 2️⃣ Build with Maven
@@ -106,5 +106,5 @@ http://localhost:8080
 
 ## ✅ Status
 
-This is a **portfolio project** meant for learning JDBC and Spring MVC.
+This is a **portfolio project** highlighting JDBC and Spring MVC.
 It’s not production-ready, but it demonstrates **database interaction, form handling, and MVC patterns** in a clean way.
